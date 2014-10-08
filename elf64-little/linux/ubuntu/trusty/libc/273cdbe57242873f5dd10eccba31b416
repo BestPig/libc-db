@@ -1,5 +1,5 @@
 {
-  "date": "2014-08-23 16:15:44", 
+  "date": "2014-10-08 12:25:17", 
   "md5": "273cdbe57242873f5dd10eccba31b416", 
   "name": "libc.so.6", 
   "package_files": [
@@ -51,7 +51,7 @@
     "usr/powerpc64le-linux-gnu/lib/libBrokenLocale.so.1", 
     "usr/powerpc64le-linux-gnu/lib64/ld64.so.2"
   ], 
-  "package_name": "libc6-ppc64el-cross_2.19-0ubuntu2cross0.2_all.deb", 
+  "package_name": "data", 
   "syms": {
     "GLIBC_2.17": 0, 
     "GLIBC_2.18": 0, 

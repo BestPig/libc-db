@@ -1,5 +1,5 @@
 {
-  "date": "2014-08-23 16:08:53", 
+  "date": "2014-10-08 12:23:06", 
   "md5": "b1cadc5f1bf188f72b75c65fc57daa9f", 
   "name": "libc.so.6", 
   "package_files": [
@@ -50,7 +50,7 @@
     "usr/arm-linux-gnueabi/lib/libnss_nis-2.19.so", 
     "usr/arm-linux-gnueabi/lib/libBrokenLocale.so.1"
   ], 
-  "package_name": "libc6-armel-cross_2.19-0ubuntu2cross1.104_all.deb", 
+  "package_name": "data", 
   "syms": {
     "GLIBC_2.10": 0, 
     "GLIBC_2.11": 0, 

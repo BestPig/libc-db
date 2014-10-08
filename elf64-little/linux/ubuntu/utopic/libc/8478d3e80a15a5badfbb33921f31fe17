@@ -1,5 +1,5 @@
 {
-  "date": "2014-08-23 16:12:56", 
+  "date": "2014-10-08 12:22:54", 
   "md5": "8478d3e80a15a5badfbb33921f31fe17", 
   "name": "libc.so.6", 
   "package_files": [
@@ -50,7 +50,7 @@
     "usr/aarch64-linux-gnu/lib/libnss_nis-2.19.so", 
     "usr/aarch64-linux-gnu/lib/libBrokenLocale.so.1"
   ], 
-  "package_name": "libc6-arm64-cross_2.19-0ubuntu2cross0.10_all.deb", 
+  "package_name": "data", 
   "syms": {
     "GLIBC_2.17": 0, 
     "GLIBC_2.18": 0, 

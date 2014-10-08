@@ -1,5 +1,5 @@
 {
-  "date": "2014-08-23 16:03:12", 
+  "date": "2014-10-08 12:22:24", 
   "md5": "96ad2e901a4ee644fd91fc747750fb3c", 
   "name": "libc.so.6", 
   "package_files": [
@@ -51,7 +51,7 @@
     "usr/arm-linux-gnueabihf/lib/libnss_compat.so.2", 
     "usr/arm-linux-gnueabihf/lib/libBrokenLocale.so.1"
   ], 
-  "package_name": "libc6-armhf-cross_2.15-0ubuntu9cross1.82_all.deb", 
+  "package_name": "data", 
   "syms": {
     "GLIBC_2.10": 0, 
     "GLIBC_2.11": 0, 

@@ -1,5 +1,5 @@
 {
-  "date": "2014-08-23 16:16:14", 
+  "date": "2014-10-08 12:23:56", 
   "md5": "103d1a9d6dc30e07140498772abd2630", 
   "name": "libc.so.6", 
   "package_files": [
@@ -50,7 +50,7 @@
     "usr/powerpc-linux-gnu/lib64/libnss_nis-2.19.so", 
     "usr/powerpc-linux-gnu/lib64/libBrokenLocale.so.1"
   ], 
-  "package_name": "libc6-ppc64-powerpc-cross_2.19-0ubuntu2cross1.1_all.deb", 
+  "package_name": "data", 
   "syms": {
     "GLIBC_2.10": 0, 
     "GLIBC_2.11": 0, 
