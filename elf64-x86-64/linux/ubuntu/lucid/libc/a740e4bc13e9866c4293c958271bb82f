@@ -471,6 +471,7 @@
     "lib64/x86_64-linux-gnu/libpci.so.3.1.9", 
     "lib64/x86_64-linux-gnu/libusb-1.0.so.0.1.0", 
     "lib64/x86_64-linux-gnu/libnsl-2.13.so", 
+    "lib64/x86_64-linux-gnu/libx86.so.1", 
     "lib64/x86_64-linux-gnu/libudev.so.0", 
     "lib64/x86_64-linux-gnu/libsepol.so.1", 
     "lib64/x86_64-linux-gnu/libpam.so.0.83.0", 
