@@ -316,7 +316,8 @@
     "usr/lib/x86_64-linux-gnu/gconv/IBM1156.so", 
     "etc/ld.so.conf.d/x86_64-linux-gnu.conf"
   ], 
-  "package_name": "data", 
+  "package_name": "libc6",
+  "package_version": "2.24-11+deb9u4",
   "syms": {
     "GLIBC_2.10": 0, 
     "GLIBC_2.11": 0, 
