@@ -48,6 +48,7 @@
     "lib/x86_64-linux-gnu/libnss_files.so.2",
     "lib/x86_64-linux-gnu/libnss_compat.so.2",
     "lib/x86_64-linux-gnu/libBrokenLocale.so.1",
+    "lib64/ld-linux-x86-64.so.2",
     "usr/share/lintian/overrides/libc6",
     "usr/share/doc/libc6/NEWS.gz",
     "usr/share/doc/libc6/NEWS.Debian.gz",
