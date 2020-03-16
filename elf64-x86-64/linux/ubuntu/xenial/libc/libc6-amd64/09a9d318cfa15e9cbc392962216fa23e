@@ -2520,7 +2520,7 @@
     "elf64-x86-64",
     "linux",
     "ubuntu",
-    "xenial-updates",
+    "xenial",
     "libc",
     "libc6-amd64"
   ]
